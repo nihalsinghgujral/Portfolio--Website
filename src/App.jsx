@@ -3,7 +3,6 @@ import { Github, Linkedin, Mail, ExternalLink, Code, Briefcase, BookOpen, Sun, M
 import ContactForm from './components/Contact';
 import ProjectSec from './components/ProjectSection.jsx';
 import Experiences from './components/JourneySections.jsx';
-import OnGoingSec from './components/OnGoing.jsx';
 import { LeetCodeIcon } from './components/LeetcodeIcon.jsx';
 
 const App = () => {
